@@ -16,10 +16,10 @@
 
 <!-- Navigation -->
 Table of Content :memo:
--  [About Me](#Profile "About Me")
--  [Skills](#Skills-:briefcase: "My Skills")
--  [Experience](#Experience-:rocket: "My Experience")
--  [Contact](#Get-In-Touch-:mailbox_with_mail: "My Contact")
+-  [About Me](#Profile-triangular_flag_on_post "About Me")
+-  [Skills](#Skills-briefcase "My Skills")
+-  [Experience](#Experience-rocket "My Experience")
+-  [Contact](#Get-In-Touch-mailbox_with_mail "My Contact")
 
 ---
 
