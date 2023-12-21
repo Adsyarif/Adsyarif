@@ -1,13 +1,8 @@
-### Hi there 👋
-<!-- Content 1: About Me -->
 
-## Profile :triangular_flag_on_post:
-### I'm Adrisa 	:bangbang:
+### I'm Adrisa
 
-###### a Software Engineering student's at RevoU[^1].
+###### a software engineering student
 
-<!-- Footnote RevoU site -->
-[^1]: [RevoU registration](https://revou.co/software-engineering?&eid=1697019632813&targeting=1&cat=D&x6=K)
 
 <!-- Profile image -->
 <!--![Photos](./assets/profile-img.jpg "Muhammad Adrisa Nur Syarif")-->
