@@ -1,28 +1,4 @@
 ### Hi there 👋
-
-<!-- RevoU Logos -->
-![RevoU-logos](https://pkk.uma.ac.id/wp-content/uploads/2023/06/revo.png "RevoU Logos")
-<!-- { width="20%" style="display: block; margin: 0 auto; max-height: 300px;"} -->
-
-<!-- Header md file -->
-
-# Muhammad Adrisa Nur Syarif
-![Up to date](https://github.com/ikatyang/emoji-cheat-sheet/workflows/Up%20to%20Date/badge.svg)
-
-<!--
- Purpose 
-> This is an assignment for "My Profile"
--->
-
-<!-- Navigation -->
-Table of Content :memo:
--  [About Me](#Profile-triangular_flag_on_post "About Me")
--  [Skills](#Skills-briefcase "My Skills")
--  [Experience](#Experience-rocket "My Experience")
--  [Contact](#Get-In-Touch-mailbox_with_mail "My Contact")
-
----
-
 <!-- Content 1: About Me -->
 
 ## Profile :triangular_flag_on_post:
