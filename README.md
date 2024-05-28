@@ -1,7 +1,7 @@
 
 ### I'm Adrisa
 
-###### a software engineering student
+###### a software engineering associate
 
 
 <!-- Profile image -->
