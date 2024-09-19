@@ -1,7 +1,7 @@
 
 ### I'm Adrisa
 
-###### a software engineering associate
+###### Software Engineering Associate
 
 
 <!-- Profile image -->
@@ -12,36 +12,23 @@
 <!-- {style="text-align: center;"} -->
 
 <!-- About me -->
-I am a **Strategy and Policy Analyst**. Spesialization in System Dynamics Modeller. I'm the co-founder of *Sysdyncate*. I :heart: coffee and cat. I started learning to code when I was 24 years old because I wanted to make my own website [Hisa Studio](https://www.hisastudio.com/ "Hisa Studio Site"). My goals is to be professional software engineer.
+Aspiring software engineer with a strong foundation in front-end development and a passion for creating innovative solutions. Recently graduated with a degree in Computer Engineering, I have successfully accelerated web app development speed by 50% and co-developed over three applications during my 2 years as a software engineering associate. My work has sharpened my skills in critical thinking, system design, problem-solving, and analysis. At GITS, I developed a system that improved documentation efficiency by 60% through integrating sprint documents and client reports. Currently, at RevoU, I am enhancing my expertise in React, TypeScript, and TailwindCSS. My commitment to continuous learning and ability to stay current with industry trends make me eager to contribute as a front-end engineer.
 
 
 <!-- My Skills -->
 
 ## Skills :briefcase:
-![Cat-Typing](./assets/cat-typing.gif "Cat Typing")
-- As an analyst, i have basic skill to using several tools:
-  - Python
-  - Ms Excel
-  - Power BI
-  - Some SQL Querry
+- Technical Skills:
+  - Programing Language: Javascript, Typescript, TailwindCSS, SASS, SQL Query, Python, PHP
+  - Framework/Library: ReactJS, NextJS, MUI, ExpressJS, Laravel, Flask
+  - Version Control System: Git, Github, Gitlab
 
 - But my best skill is actually in googling something. As an analyst I need to find many dataset. Of course the data can be obtain by google. :desktop_computer:
 
 ## Experience :rocket:
+- Software Engineering Associate, RevoU - Mei 2024 - Current
+- Internship Front End Developer, PT Sinergi Nusa Inovatif - October, 2022 – January, 2023
 
-I reside in Bandung, which has allowed me to acquire the necessary skills for living in this city. I previously held the position of Major in Physics Instrumentation. However, I am currently pursuing my bachelor's degree at Pasim National University to achieve my academic goals.
-
-Throughout this time, I've embarked on a non-linear career journey, starting from design for marketing and books, eventually transitioning into an analyst role. Here is a brief overview of my career so far.
-
-|Years|Occupation|Position| 
-|-----------|--------|-------|
-|2023 - Now | PT GITS Indonesia | Storage Moderation |
-|2023 - Now | PT Quatra Inti Karya | Project Admin |
-|2022 - Now | Publish What You Pay | Data Analyst |
-|2022 - 2023 | PT Sinovatif | Internship |
-|2022 - 2023 | PT Hegar Daya | Data Analyst |
-|2020 - Now | Sysdyncate | Co Founder |
-|2018 - 2020 | System Dynamics Bandung Bootcamp | System Dynamics Modeller |
 
 ## Get In Touch :mailbox_with_mail:
 If you love coffee as much as I do. 
