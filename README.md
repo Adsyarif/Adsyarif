@@ -16,6 +16,7 @@ Recently graduated with a degree in Computer Engineering, I have successfully ac
 
 <!-- My Skills -->
 
+<!--
 ## Skills :briefcase:
 - Technical Skills:
   - Programing Language: Javascript, Typescript, TailwindCSS, SASS, SQL Query, Python, PHP
@@ -33,4 +34,4 @@ Recently graduated with a degree in Computer Engineering, I have successfully ac
 If you love coffee as much as I do. 
 Love coffee as much as I do? Let's talk about how awesome they are! We can code while we drink hot coffee! :coffee:
 
-[![linked-in](./assets/linkedin-logo.jpg)](https://www.linkedin.com/in/adrisa-syarif/)
+[![linked-in](./assets/linkedin-logo.jpg)](https://www.linkedin.com/in/adrisa-syarif/) -->
