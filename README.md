@@ -8,11 +8,10 @@
 <!--![Photos](./assets/profile-img.jpg "Muhammad Adrisa Nur Syarif")-->
 <!-- { width="50%" style="display: block; margin: 0 auto; max-height: 300px; object-fit: cover; object-position: center; border-radius: 10px;"} -->
 
-#### Hello. 
 <!-- {style="text-align: center;"} -->
 
 <!-- About me -->
-Aspiring software engineer with a strong foundation in front-end development and a passion for creating innovative solutions. Recently graduated with a degree in Computer Engineering, I have successfully accelerated web app development speed by 50% and co-developed over three applications during my 2 years as a software engineering associate. My work has sharpened my skills in critical thinking, system design, problem-solving, and analysis. At GITS, I developed a system that improved documentation efficiency by 60% through integrating sprint documents and client reports. Currently, at RevoU, I am enhancing my expertise in React, TypeScript, and TailwindCSS. My commitment to continuous learning and ability to stay current with industry trends make me eager to contribute as a front-end engineer.
+Recently graduated with a degree in Computer Engineering, I have successfully accelerated web app development speed by 50% and co-developed over three applications during my 2 years as a software engineering associate. My work has sharpened my skills in critical thinking, system design, problem-solving, and analysis. At GITS, I developed a system that improved documentation efficiency by 60% through integrating sprint documents and client reports. Currently, at RevoU, I am enhancing my expertise in React, TypeScript, and TailwindCSS. My commitment to continuous learning and ability to stay current with industry trends make me eager to contribute as a front-end engineer.
 
 
 <!-- My Skills -->
